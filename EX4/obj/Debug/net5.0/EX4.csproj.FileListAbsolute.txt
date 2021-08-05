@@ -1,0 +1,16 @@
+C:\teste-GFT\EX4\bin\Debug\net5.0\EX4.exe
+C:\teste-GFT\EX4\bin\Debug\net5.0\EX4.deps.json
+C:\teste-GFT\EX4\bin\Debug\net5.0\EX4.runtimeconfig.json
+C:\teste-GFT\EX4\bin\Debug\net5.0\EX4.runtimeconfig.dev.json
+C:\teste-GFT\EX4\bin\Debug\net5.0\EX4.dll
+C:\teste-GFT\EX4\bin\Debug\net5.0\ref\EX4.dll
+C:\teste-GFT\EX4\bin\Debug\net5.0\EX4.pdb
+C:\teste-GFT\EX4\obj\Debug\net5.0\EX4.csprojAssemblyReference.cache
+C:\teste-GFT\EX4\obj\Debug\net5.0\EX4.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste-GFT\EX4\obj\Debug\net5.0\EX4.AssemblyInfoInputs.cache
+C:\teste-GFT\EX4\obj\Debug\net5.0\EX4.AssemblyInfo.cs
+C:\teste-GFT\EX4\obj\Debug\net5.0\EX4.csproj.CoreCompileInputs.cache
+C:\teste-GFT\EX4\obj\Debug\net5.0\EX4.dll
+C:\teste-GFT\EX4\obj\Debug\net5.0\ref\EX4.dll
+C:\teste-GFT\EX4\obj\Debug\net5.0\EX4.pdb
+C:\teste-GFT\EX4\obj\Debug\net5.0\EX4.genruntimeconfig.cache
